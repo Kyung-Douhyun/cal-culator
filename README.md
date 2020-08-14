@@ -57,4 +57,4 @@ NODE_ENV = development
 ![9dodont](https://user-images.githubusercontent.com/62484853/87214254-f8b5d200-c365-11ea-8e0d-e031508c358e.gif)
 
 <br/>
-**이 외에 프로젝트 과정에서의 기획과정, 회고, 진행 현황등 자세한 사항들은 Wiki에 기록하게 됩니다. [여기](https://github.com/codestates/im20-project-cal-culator/wiki)를 눌러 이동해 주세요**
+**이 외에 프로젝트 과정에서의 기획과정, 회고, 진행 현황등 자세한 사항들은 Wiki에 기록하게 됩니다. [여기](https://github.com/Kyung-Douhyun/cal-culator/wiki)를 눌러 이동해 주세요**
